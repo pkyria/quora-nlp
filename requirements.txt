@@ -6,3 +6,10 @@ matplotlib
 wordcloud
 seaborn
 numpy
+nltk
+contractions
+bs4
+sentence-transformers
+torch==2.6.0+cu126
+torch-optimizer==0.1.0
+torchmetrics==1.7.1
