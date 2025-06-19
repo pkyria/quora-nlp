@@ -33,6 +33,7 @@ The task is a **binary classification** problem. The general pipeline is:
 
 3. **Modeling**:
    - Traditional ML models: LightGBM, XGBoost
+   - Deep Learning (LSTM)
    
 4. **Evaluation**:
    - Accuracy, Precision, Recall, F1 Score, Log loss
