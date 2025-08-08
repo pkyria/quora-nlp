@@ -37,3 +37,7 @@ The task is a **binary classification** problem. The general pipeline is:
    
 4. **Evaluation**:
    - Accuracy, Precision, Recall, F1 Score, Log loss
+
+5. **Results**:
+<img width="1040" height="717" alt="image" src="https://github.com/user-attachments/assets/170ac19d-b7b4-46cc-81a2-d659e045b00a" />
+
